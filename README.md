@@ -76,13 +76,13 @@ To get started with the dashboard, follow these steps:
 Here's a brief example of how to use the dashboard:
 
 1. **Homepage**: Upload your WhatsApp chat export file.
-    - ![Homepage](screenshots/homepage.png)
+    - ![Homepage](https://github.com/Rendika7/Dashboard-WhatsApp-Chat-Analyzer/blob/main/Source/Homepages.png) 
 
 2. **WhatsApp Analysis**: View the exploratory data analysis of your chat data.
-    - ![WhatsApp Analysis](screenshots/whatsapp_analysis.png)
+    - ![WhatsApp Analysis](https://github.com/Rendika7/Dashboard-WhatsApp-Chat-Analyzer/blob/main/Source/WhatsappAnalysis.png)
 
 3. **Sentiment Analysis**: Analyze the sentiment of each message in your chat.
-    - ![Sentiment Analysis](screenshots/sentiment_analysis.png)
+    - ![Sentiment Analysis](https://github.com/Rendika7/Dashboard-WhatsApp-Chat-Analyzer/blob/main/Source/SentimentAnalysis.png)
 
 ## Contributing
 
