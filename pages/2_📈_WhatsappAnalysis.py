@@ -719,7 +719,7 @@ st.markdown(
     """
     <div class="footer">
         <p>© 2024 Rendika Nurhartanto Suharto. All rights reserved.</p>
-        <p><a href="https://www.linkedin.com/in/rendika-nurhartanto-s-882431218/" target="_blank">Visit our LinkedIn</a></p>
+        <p><a href="https://www.linkedin.com/in/rendika-nurhartanto-s-882431218/" target="_blank">Visit my LinkedIn</a></p>
     </div>
     """,
     unsafe_allow_html=True
